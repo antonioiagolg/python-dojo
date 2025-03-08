@@ -1,5 +1,24 @@
+'''
+Number guessing game. 
+The game calculates the number of minimum guesses based on the range the user
+defines to choose the mistery number. The formula is:
+log2(max_range - min_range + 1)
+Based on the number of guesses, the player will try to find the mistery number.
+The game will say if the guess is too high or too low, giving a hint to the player
+for the next guess.
+
+References:
+- https://www.geeksforgeeks.org/number-guessing-game-in-python/
+
+Explored here:
+- random lib
+- math lib
+- control flow statements
+'''
+
 import random
 import math
+
 
 print("Configuring the game...")
 min = int(input("Please set the minimum number: "))
