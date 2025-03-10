@@ -7,3 +7,4 @@ Feel free to check it out.
 ## Projects
 * Number guessing game
 * Word guessing game
+* PDF diff
