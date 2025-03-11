@@ -8,3 +8,4 @@ Feel free to check it out.
 * Number guessing game
 * Word guessing game
 * PDF diff
+* Simple Audio Recorder
