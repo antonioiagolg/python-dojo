@@ -10,7 +10,7 @@ class NewVisitorTest(unittest.TestCase):
         self.browser.quit()
         return super().tearDown()
 
-    def test_can_start_todo_list(self):
+    def test_can_start_todo_list(self) -> None:
         # and it navigates to the To-do list app
         self.browser.get("http://localhost:8000")
 
