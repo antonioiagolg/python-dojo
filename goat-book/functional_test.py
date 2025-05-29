@@ -25,7 +25,7 @@ class NewVisitorTest(unittest.TestCase):
 
         # The user sees there is a field to add an item
         inputbox = self.browser.find_element(By.ID, "id_new_item")
-        self.assertIn(inputbox.get_attribute("placeholder"), "Enter a to-do item")
+        self.assertEqual(inputbox.get_attribute("placeholder"), "Enter a to-do item")
     
         # The user adds an item "Do the dishes"
         inputbox.send_keys("Do the dishes")
@@ -34,8 +34,9 @@ class NewVisitorTest(unittest.TestCase):
         inputbox.send_keys(Keys.ENTER)
         time.sleep(1)
 
-        trs = self.browser.find_elements(By.TAG_NAME, "tr")
-        self.assertTrue(any(row.text == "Do the dishes" for row in trs))
+        table = self.browser.find_element(By.ID, "id_list_table")
+        trs = table.find_elements(By.TAG_NAME, "tr")
+        self.assertTrue(any(row.text == "Do the dishes" for row in trs), "New to-do item does not appear in the list")
         # The field is still there for more items
 
         # The user is satisfied and close the app
