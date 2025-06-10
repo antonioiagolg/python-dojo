@@ -6,6 +6,7 @@ resolution = pyautogui.size()
 fps = 60
 codec = cv2.VideoWriter.fourcc(*"XVID")
 filename = "test.avi"
+main_screen = cv2.imread("main_screen.png")
 
 output = cv2.VideoWriter(filename, codec, fps, resolution)
 
@@ -21,7 +22,7 @@ while True:
     # Doing this to check only the last bits,
     # It might differ from platform the most significant bits, but the end is quite
     # same
-    cv2.imshow('Live', frame)
+    cv2.imshow('Live', main_screen)
     if cv2.waitKey(1) == ord("q"):
         break
 
