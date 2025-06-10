@@ -10,8 +10,6 @@ filename = "test.avi"
 output = cv2.VideoWriter(filename, codec, fps, resolution)
 
 print("[Screen redorder]: Start recording...")
-print(ord('q'))
-print(cv2.waitKey(5000))
 while True:
     screenshot = pyautogui.screenshot()
     frame = np.array(screenshot)
@@ -23,7 +21,8 @@ while True:
     # Doing this to check only the last bits,
     # It might differ from platform the most significant bits, but the end is quite
     # same
-    if (cv2.waitKey(1) & 0xFF) == ord('q'):
+    cv2.imshow('Live', frame)
+    if cv2.waitKey(1) == ord("q"):
         break
 
 output.release()
