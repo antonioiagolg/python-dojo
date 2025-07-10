@@ -4,8 +4,8 @@ import numpy as np
 
 resolution = pyautogui.size()
 fps = 60
-codec = cv2.VideoWriter.fourcc(*"XVID")
-filename = "test.avi"
+codec = cv2.VideoWriter.fourcc(*"MP4V")
+filename = "test.mp4"
 main_screen = cv2.imread("main_screen.png")
 
 output = cv2.VideoWriter(filename, codec, fps, resolution)
