@@ -1,3 +1,7 @@
+<div style="text-align: 'center'">
+<img src="assets/dojo.png" alt="Description" style="max-width: 100%; height: 300px" >
+</div>
+
 # Python Dojo
 
 Hello, here I keep all the python scripts I do for practice. Some of them contains a README with explanation about the solution, and my plan is to document everything for future reference.
