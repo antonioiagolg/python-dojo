@@ -12,6 +12,7 @@ Hello, here I keep all the python scripts I do for practice. Some of them contai
 
 * [Polar coordinates](polar-cordinates/README.md)
 * [Right Triangle](right-triangle/README.md)
+* [Triangle Quest](triangle-quest/README.md)
 * Picking numbers
 
 ### Geeks for Geeks
