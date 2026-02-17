@@ -14,6 +14,7 @@ Hello, here I keep all the python scripts I do for practice. Some of them contai
 * [Right Triangle](right-triangle/README.md)
 * [Triangle Quest](triangle-quest/README.md)
 * [Divmod](divmod/README.md)
+* [Power Mod](pow-mod/README.md)
 * Picking numbers
 
 ### Geeks for Geeks
