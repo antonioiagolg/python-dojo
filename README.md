@@ -17,6 +17,7 @@ Hello, here I keep all the python scripts I do for practice. Some of them contai
 * [Power Mod](pow-mod/README.md)
 * [Default dict](hk-defaultdict/README.md)
 * [Calendar](hk-calendar/README.md)
+* [Exceptions](hk-exceptions/README.md)
 * Picking numbers
 
 ### Geeks for Geeks
