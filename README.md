@@ -20,6 +20,7 @@ Hello, here I keep all the python scripts I do for practice. Some of them contai
 * [Exceptions](hk-exceptions/README.md)
 * [Named Tuple](hk-namedtuple/README.md)
 * [Time Delta](hk-timedelta/README.md)
+* [Polinomials](hk-polinomials/README.md)
 * Picking numbers
 
 ### Geeks for Geeks
