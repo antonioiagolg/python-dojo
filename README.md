@@ -21,6 +21,7 @@ Hello, here I keep all the python scripts I do for practice. Some of them contai
 * [Named Tuple](hk-namedtuple/README.md)
 * [Time Delta](hk-timedelta/README.md)
 * [Polinomials](hk-polinomials/README.md)
+* [Alphabet Rangoli](alphabet-rangoli/README.md)
 * Picking numbers
 
 ### Geeks for Geeks
