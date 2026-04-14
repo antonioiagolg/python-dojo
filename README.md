@@ -23,6 +23,7 @@ Hello, here I keep all the python scripts I do for practice. Some of them contai
 * [Polinomials](hk-polinomials/README.md)
 * [Alphabet Rangoli](alphabet-rangoli/README.md)
 * [Ordered Dict](hk-ordered-dict/README.md)
+* [Set Symmetric Difference](hk-symmetric-difference/README.md)
 * Picking numbers
 
 ### Geeks for Geeks
