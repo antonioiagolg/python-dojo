@@ -29,6 +29,7 @@ Hello, here I keep all the python scripts I do for practice. Some of them contai
 * [XML max depth](hk-xml-max-depth/README.md)
 * [Set add](hk-set-add/README.md)
 * [Set operations](hk-set-operations/README.md)
+* [Set union](hk-set-union/README.md)
 * Picking numbers
 
 ### Geeks for Geeks
