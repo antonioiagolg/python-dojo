@@ -26,6 +26,7 @@ Hello, here I keep all the python scripts I do for practice. Some of them contai
 * [Set Symmetric Difference](hk-symmetric-difference/README.md)
 * [Combinations](hk-combinations/README.md)
 * [Regex check](hk-regex-check/README.md)
+* [XML max depth](hk-xml-max-depth/README.md)
 * Picking numbers
 
 ### Geeks for Geeks
