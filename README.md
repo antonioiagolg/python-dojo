@@ -31,6 +31,7 @@ Hello, here I keep all the python scripts I do for practice. Some of them contai
 * [Set operations](hk-set-operations/README.md)
 * [Set union](hk-set-union/README.md)
 * [Word Oder](hk-word-order/README.md)
+* [Company Logo](hk-company-logo/README.md)
 * Picking numbers
 
 ### Geeks for Geeks
