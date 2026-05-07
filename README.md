@@ -34,6 +34,7 @@ Hello, here I keep all the python scripts I do for practice. Some of them contai
 * [Company Logo](hk-company-logo/README.md)
 * [Piling numbers](hk-piling-numbers/README.md)
 * [Iterator Iterables](hk-iterator-iterables/README.md)
+* [Maximize it](hk-maximize-it/README.md)
 * Picking numbers
 
 ### Geeks for Geeks
