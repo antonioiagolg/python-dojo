@@ -35,6 +35,7 @@ Hello, here I keep all the python scripts I do for practice. Some of them contai
 * [Piling numbers](hk-piling-numbers/README.md)
 * [Iterator Iterables](hk-iterator-iterables/README.md)
 * [Maximize it](hk-maximize-it/README.md)
+* [ginortS](hk-ginorts/README.md)
 * Picking numbers
 
 ### Geeks for Geeks
