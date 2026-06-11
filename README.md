@@ -37,6 +37,7 @@ Hello, here I keep all the python scripts I do for practice. Some of them contai
 * [Maximize it](hk-maximize-it/README.md)
 * [ginortS](hk-ginorts/README.md)
 * [Float parser](hk-float-parser/README.md)
+* [Email validator](hk-email-validator/README.md)
 * Picking numbers
 
 ### Geeks for Geeks
